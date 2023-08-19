@@ -1,0 +1,35 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+P{
+    background-color: rgb(5, 5, 5);
+    color: rgb(234, 220, 220);
+    text-align: center;
+}
+.ul1{
+    text-decoration: none;
+    width: 400px;
+    text-align: center;
+    position: absolute;
+    left: 228px;
+}
+    
+
+.ol1{
+    text-decoration: none;
+    width: 400px;
+    text-align: center;
+    position: absolute;
+    left: 728px;
+}
+    
+
+div{
+    display: inline-block;
+    
+}
+body{
+    background-color: aquamarine;
+}
